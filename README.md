@@ -1,12 +1,6 @@
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkarpatange010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omkarpatange010&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarpatange010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=omkarpatange010&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
  I am a passionate and dedicated Cloud & Web Developer with a solid foundation in<br>            programming, cloud computing, and DevOps practices. I am proficient in AWS services<br>                    and modern web technologies, having hands-on experience in both frontend<br>                    development and cloud deployments. I have a demonstrated ability to build scalable,<br>                    cloud-native applications while contributing to open-source projects and leading<br>                    technical initiatives, and I seek to leverage my expertise effectively in innovative cloud<br>                    engineering projects
