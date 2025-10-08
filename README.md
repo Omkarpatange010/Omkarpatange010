@@ -1,3 +1,4 @@
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there I M Omkar Patange👋
 ##💫About Me: <br>
  I am a passionate and dedicated Cloud & Web Developer with a solid foundation in<br>            programming, cloud computing, and DevOps practices. I am proficient in AWS services<br>                    and modern web technologies, having hands-on experience in both frontend<br>                    development and cloud deployments. I have a demonstrated ability to build scalable,<br>                    cloud-native applications while contributing to open-source projects and leading<br>                    technical initiatives, and I seek to leverage my expertise effectively in innovative cloud<br>                    engineering projects
 
@@ -22,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Omkarpatange010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+
 
 <!--
 **Omkarpatange010/Omkarpatange010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
